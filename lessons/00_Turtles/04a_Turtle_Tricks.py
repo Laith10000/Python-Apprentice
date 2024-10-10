@@ -19,4 +19,13 @@ for i in range(3):
     tina.forward(20)
 tina.left(125)
 
+tina.circle(100)
+
+
+
+
+
+
+
+
 turtle.exitonclick()                    # Close the window when we click on it
